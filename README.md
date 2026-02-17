@@ -1,1 +1,1 @@
-# ltc-nodd
+# ltc-node
